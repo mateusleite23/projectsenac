@@ -1,0 +1,64 @@
+                    Firebase 
+
+tipo de organização: 
+o que é um BaaS ? é um modelo de serviço em nunvem noss qual os desenvolvedores tercerizaram todos os aspctos dos bastidores de um aplicativo web ou para dispositivos móveis para que eles 
+tenham apenas que escrever e manter o front-end. 
+*backend 
+*permite voçê focar no Frontend 
+*utilizado como serviço
+*customizável
+*seguro 
+*infraesturtura completa
+
+Saas- Software as a Service 
+
+ O que é firebase 
+
+*um BaaS
+* criado pela Gloogle
+*disponivel anpenas Online 
+*apenas como serviso  
+prós e contra 
+prós 
+*economia de tempo
+*isenção de responsabilidade 
+*redução de custo
+*alta disponibilidade
+contras 
+*customízavel mas nem tanto
+*voçê se adequa a ele 
+* dificuldade em cenários onpremise
+ 
+ 
+          CMD
+
+
+Md TESTE/CRIA PASTA
+Cd/ ENTRA PASTA
+Rd/apaga pasta
+dir/ lista pasta 
+tree/ lista arvore 
+cd../sair
+cls/ limpar a tela 
+dir/ entrar 
+mkdir teste/ criar uma pasta 
+cd teste/ entrar na pasta 
+git/ sistema de controle de versionamento comits
+
+     git = é um sistema de controle de versão 
+alguns dos objetivos do novo sistema eram
+velocidade 
+desing simples
+ suporte robusto a desenvolvimento não linear ( inumeras de branches paralelas
+totalmente 
+
+
+CMD 
+DIR/?=HELPER
+COPY*.PDF=ARQUIVOS
+DEL*PDF=ARQUIVOS
+COPY A:*.*C=COPIAR
+REN IMAGEM.JPG FOTO. JPG= RENOMEAR
+RD TESTE/S = CLAUSULA
+MD CRIA
+TREE = ARVORE DE DIRETORIO 
